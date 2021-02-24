@@ -1,0 +1,2186 @@
+{
+ "tramwaje": [
+  {
+   "name": "1",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=1",
+   "tprzystanki": [
+    {
+     "name": "Wzgórza Krzesławickie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__1"
+    },
+    {
+     "name": "Jarzębiny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__2"
+    },
+    {
+     "name": "Darwina",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__3"
+    },
+    {
+     "name": "Wiadukty",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__4"
+    },
+    {
+     "name": "Wańkowicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__5"
+    },
+    {
+     "name": "Cienista",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__6"
+    },
+    {
+     "name": "Teatr Ludowy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__7"
+    },
+    {
+     "name": "Rondo Kocmyrzowskie im. Ks. Gorzelanego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__8"
+    },
+    {
+     "name": "Bieńczycka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__9"
+    },
+    {
+     "name": "Rondo Czyżyńskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__10"
+    },
+    {
+     "name": "Centralna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__11"
+    },
+    {
+     "name": "Rondo 308. Dywizjonu",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__12"
+    },
+    {
+     "name": "M1 al. Pokoju",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__13"
+    },
+    {
+     "name": "TAURON Arena Kraków al. Pokoju",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__14"
+    },
+    {
+     "name": "Plaza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__15"
+    },
+    {
+     "name": "Dąbie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__16"
+    },
+    {
+     "name": "Ofiar Dąbia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__17"
+    },
+    {
+     "name": "Fabryczna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__18"
+    },
+    {
+     "name": "Francesco Nullo",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__19"
+    },
+    {
+     "name": "Teatr Variété",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__20"
+    },
+    {
+     "name": "Rondo Grzegórzeckie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__21"
+    },
+    {
+     "name": "Hala Targowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__22"
+    },
+    {
+     "name": "Starowiślna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__23"
+    },
+    {
+     "name": "Poczta Główna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__24"
+    },
+    {
+     "name": "Plac Wszystkich Świętych",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__25"
+    },
+    {
+     "name": "Filharmonia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__26"
+    },
+    {
+     "name": "Jubilat",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__27"
+    },
+    {
+     "name": "Komorowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__28"
+    },
+    {
+     "name": "Salwator",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=1__1__29"
+    }
+   ]
+  },
+  {
+   "name": "2",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=2",
+   "tprzystanki": [
+    {
+     "name": "Salwator",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__1"
+    },
+    {
+     "name": "Salwator",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__2"
+    },
+    {
+     "name": "Komorowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__3"
+    },
+    {
+     "name": "Jubilat",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__4"
+    },
+    {
+     "name": "Filharmonia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__5"
+    },
+    {
+     "name": "Teatr Bagatela",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__6"
+    },
+    {
+     "name": "Stary Kleparz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__7"
+    },
+    {
+     "name": "Teatr Słowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__8"
+    },
+    {
+     "name": "Lubicz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__9"
+    },
+    {
+     "name": "Uniwersytet Ekonomiczny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__10"
+    },
+    {
+     "name": "Rakowicka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=2__1__11"
+    }
+   ]
+  },
+  {
+   "name": "3",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=3",
+   "tprzystanki": [
+    {
+     "name": "Nowy Bieżanów P+R",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__1"
+    },
+    {
+     "name": "Ćwiklińskiej",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__2"
+    },
+    {
+     "name": "Nowy Prokocim",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__3"
+    },
+    {
+     "name": "Teligi",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__4"
+    },
+    {
+     "name": "Prokocim Szpital",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__5"
+    },
+    {
+     "name": "Prokocim",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__6"
+    },
+    {
+     "name": "Wlotowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__7"
+    },
+    {
+     "name": "Bieżanowska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__8"
+    },
+    {
+     "name": "Kabel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__9"
+    },
+    {
+     "name": "Dworcowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__10"
+    },
+    {
+     "name": "Cmentarz Podgórski",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__11"
+    },
+    {
+     "name": "Podgórze SKA",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__12"
+    },
+    {
+     "name": "Plac Bohaterów Getta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__13"
+    },
+    {
+     "name": "św. Wawrzyńca",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__14"
+    },
+    {
+     "name": "Miodowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__15"
+    },
+    {
+     "name": "Starowiślna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__16"
+    },
+    {
+     "name": "Poczta Główna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__17"
+    },
+    {
+     "name": "Teatr Słowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__18"
+    },
+    {
+     "name": "Dworzec Główny Zachód",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__19"
+    },
+    {
+     "name": "Politechnika",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__20"
+    },
+    {
+     "name": "Dworzec Towarowy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__21"
+    },
+    {
+     "name": "Szpital Narutowicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__22"
+    },
+    {
+     "name": "Bratysławska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=3__1__23"
+    }
+   ]
+  },
+  {
+   "name": "4",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=4",
+   "tprzystanki": [
+    {
+     "name": "Wzgórza Krzesławickie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__1"
+    },
+    {
+     "name": "Jarzębiny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__2"
+    },
+    {
+     "name": "Darwina",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__3"
+    },
+    {
+     "name": "Wiadukty",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__4"
+    },
+    {
+     "name": "Elektromontaż",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__5"
+    },
+    {
+     "name": "Zajezdnia Nowa Huta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__6"
+    },
+    {
+     "name": "Kombinat",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__7"
+    },
+    {
+     "name": "Struga",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__8"
+    },
+    {
+     "name": "Plac Centralny im. R.Reagana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__9"
+    },
+    {
+     "name": "Os. Kolorowe",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__10"
+    },
+    {
+     "name": "Rondo Czyżyńskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__11"
+    },
+    {
+     "name": "Czyżyny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__12"
+    },
+    {
+     "name": "Stella-Sawickiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__13"
+    },
+    {
+     "name": "AWF",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__14"
+    },
+    {
+     "name": "Muzeum Lotnictwa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__15"
+    },
+    {
+     "name": "TAURON Arena Kraków Wieczysta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__16"
+    },
+    {
+     "name": "Białucha",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__17"
+    },
+    {
+     "name": "Cystersów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__18"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__19"
+    },
+    {
+     "name": "Lubicz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__20"
+    },
+    {
+     "name": "Teatr Słowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__21"
+    },
+    {
+     "name": "Stary Kleparz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__22"
+    },
+    {
+     "name": "Teatr Bagatela",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__23"
+    },
+    {
+     "name": "Batorego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__24"
+    },
+    {
+     "name": "Plac Inwalidów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__25"
+    },
+    {
+     "name": "Urzędnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__26"
+    },
+    {
+     "name": "Biprostal",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__27"
+    },
+    {
+     "name": "Uniwersytet Pedagogiczny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__28"
+    },
+    {
+     "name": "Głowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__29"
+    },
+    {
+     "name": "Bronowice",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__30"
+    },
+    {
+     "name": "Wesele",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__31"
+    },
+    {
+     "name": "Bronowice SKA",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=4__1__32"
+    }
+   ]
+  },
+  {
+   "name": "5",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=5",
+   "tprzystanki": [
+    {
+     "name": "Wzgórza Krzesławickie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__1"
+    },
+    {
+     "name": "Jarzębiny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__2"
+    },
+    {
+     "name": "Darwina",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__3"
+    },
+    {
+     "name": "Wiadukty",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__4"
+    },
+    {
+     "name": "Wańkowicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__5"
+    },
+    {
+     "name": "Cienista",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__6"
+    },
+    {
+     "name": "Teatr Ludowy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__7"
+    },
+    {
+     "name": "Rondo Kocmyrzowskie im. Ks. Gorzelanego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__8"
+    },
+    {
+     "name": "Bieńczycka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__9"
+    },
+    {
+     "name": "Rondo Czyżyńskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__10"
+    },
+    {
+     "name": "Czyżyny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__11"
+    },
+    {
+     "name": "Stella-Sawickiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__12"
+    },
+    {
+     "name": "AWF",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__13"
+    },
+    {
+     "name": "Muzeum Lotnictwa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__14"
+    },
+    {
+     "name": "TAURON Arena Kraków Wieczysta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__15"
+    },
+    {
+     "name": "Białucha",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__16"
+    },
+    {
+     "name": "Cystersów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__17"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__18"
+    },
+    {
+     "name": "Dworzec Główny Tunel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__19"
+    },
+    {
+     "name": "Politechnika",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__20"
+    },
+    {
+     "name": "Dworzec Towarowy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__21"
+    },
+    {
+     "name": "Szpital Narutowicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__22"
+    },
+    {
+     "name": "Bratysławska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=5__1__23"
+    }
+   ]
+  },
+  {
+   "name": "8",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=8",
+   "tprzystanki": [
+    {
+     "name": "Borek Fałęcki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__1"
+    },
+    {
+     "name": "Borek Fałęcki I",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__2"
+    },
+    {
+     "name": "Solvay",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__3"
+    },
+    {
+     "name": "Łagiewniki ZUS",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__4"
+    },
+    {
+     "name": "Łagiewniki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__5"
+    },
+    {
+     "name": "Rzemieślnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__6"
+    },
+    {
+     "name": "Rondo Matecznego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__7"
+    },
+    {
+     "name": "Smolki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__8"
+    },
+    {
+     "name": "Korona",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__9"
+    },
+    {
+     "name": "Plac Wolnica",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__10"
+    },
+    {
+     "name": "Stradom",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__11"
+    },
+    {
+     "name": "Wawel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__12"
+    },
+    {
+     "name": "św. Gertrudy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__13"
+    },
+    {
+     "name": "Plac Wszystkich Świętych",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__14"
+    },
+    {
+     "name": "Filharmonia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__15"
+    },
+    {
+     "name": "Teatr Bagatela",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__16"
+    },
+    {
+     "name": "Batorego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__17"
+    },
+    {
+     "name": "Plac Inwalidów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__18"
+    },
+    {
+     "name": "Urzędnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__19"
+    },
+    {
+     "name": "Biprostal",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__20"
+    },
+    {
+     "name": "Uniwersytet Pedagogiczny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__21"
+    },
+    {
+     "name": "Głowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__22"
+    },
+    {
+     "name": "Bronowice",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__23"
+    },
+    {
+     "name": "Wesele",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__24"
+    },
+    {
+     "name": "Bronowice SKA",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=8__1__25"
+    }
+   ]
+  },
+  {
+   "name": "9",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=9",
+   "tprzystanki": [
+    {
+     "name": "Mistrzejowice",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__1"
+    },
+    {
+     "name": "Miśnieńska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__2"
+    },
+    {
+     "name": "Os. Złotego Wieku",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__3"
+    },
+    {
+     "name": "Rondo Piastowskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__4"
+    },
+    {
+     "name": "Dunikowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__5"
+    },
+    {
+     "name": "Rondo Hipokratesa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__6"
+    },
+    {
+     "name": "DH Wanda",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__7"
+    },
+    {
+     "name": "Rondo Kocmyrzowskie im. Ks. Gorzelanego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__8"
+    },
+    {
+     "name": "Bieńczycka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__9"
+    },
+    {
+     "name": "Rondo Czyżyńskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__10"
+    },
+    {
+     "name": "Czyżyny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__11"
+    },
+    {
+     "name": "Stella-Sawickiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__12"
+    },
+    {
+     "name": "AWF",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__13"
+    },
+    {
+     "name": "Muzeum Lotnictwa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__14"
+    },
+    {
+     "name": "TAURON Arena Kraków Wieczysta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__15"
+    },
+    {
+     "name": "Białucha",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__16"
+    },
+    {
+     "name": "Cystersów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__17"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__18"
+    },
+    {
+     "name": "Rondo Grzegórzeckie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__19"
+    },
+    {
+     "name": "Zabłocie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__20"
+    },
+    {
+     "name": "Klimeckiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__21"
+    },
+    {
+     "name": "Kuklińskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__22"
+    },
+    {
+     "name": "Gromadzka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__23"
+    },
+    {
+     "name": "Lipska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__24"
+    },
+    {
+     "name": "Dworzec Płaszów Estakada",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__25"
+    },
+    {
+     "name": "Kabel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__26"
+    },
+    {
+     "name": "Bieżanowska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__27"
+    },
+    {
+     "name": "Wlotowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__28"
+    },
+    {
+     "name": "Prokocim",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__29"
+    },
+    {
+     "name": "Prokocim Szpital",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__30"
+    },
+    {
+     "name": "Teligi",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__31"
+    },
+    {
+     "name": "Nowy Prokocim",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__32"
+    },
+    {
+     "name": "Ćwiklińskiej",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=9__1__33"
+    }
+   ]
+  },
+  {
+   "name": "10",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=10",
+   "tprzystanki": [
+    {
+     "name": "Pleszów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__1"
+    },
+    {
+     "name": "Koksochemia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__2"
+    },
+    {
+     "name": "Meksyk",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__3"
+    },
+    {
+     "name": "Brama nr 5",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__4"
+    },
+    {
+     "name": "Giedroycia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__5"
+    },
+    {
+     "name": "Brama nr 4",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__6"
+    },
+    {
+     "name": "Fort Mogiła",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__7"
+    },
+    {
+     "name": "Bardosa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__8"
+    },
+    {
+     "name": "Suche Stawy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__9"
+    },
+    {
+     "name": "Klasztorna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__10"
+    },
+    {
+     "name": "Os. Na Skarpie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__11"
+    },
+    {
+     "name": "Plac Centralny im. R.Reagana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__12"
+    },
+    {
+     "name": "Os. Kolorowe",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__13"
+    },
+    {
+     "name": "Rondo Czyżyńskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__14"
+    },
+    {
+     "name": "Czyżyny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__15"
+    },
+    {
+     "name": "Stella-Sawickiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__16"
+    },
+    {
+     "name": "AWF",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__17"
+    },
+    {
+     "name": "Muzeum Lotnictwa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__18"
+    },
+    {
+     "name": "TAURON Arena Kraków Wieczysta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__19"
+    },
+    {
+     "name": "Białucha",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__20"
+    },
+    {
+     "name": "Cystersów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__21"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__22"
+    },
+    {
+     "name": "Lubicz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__23"
+    },
+    {
+     "name": "Teatr Słowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__24"
+    },
+    {
+     "name": "Poczta Główna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__25"
+    },
+    {
+     "name": "św. Gertrudy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__26"
+    },
+    {
+     "name": "Wawel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__27"
+    },
+    {
+     "name": "Stradom",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__28"
+    },
+    {
+     "name": "Plac Wolnica",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__29"
+    },
+    {
+     "name": "Korona",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__30"
+    },
+    {
+     "name": "Smolki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__31"
+    },
+    {
+     "name": "Rondo Matecznego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__32"
+    },
+    {
+     "name": "Rzemieślnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=10__1__33"
+    }
+   ]
+  },
+  {
+   "name": "11",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=11",
+   "tprzystanki": [
+    {
+     "name": "Mały Płaszów P+R",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__1"
+    },
+    {
+     "name": "Rzebika",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__2"
+    },
+    {
+     "name": "Lipska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__3"
+    },
+    {
+     "name": "Dworzec Płaszów Estakada",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__4"
+    },
+    {
+     "name": "Dworcowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__5"
+    },
+    {
+     "name": "Cmentarz Podgórski",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__6"
+    },
+    {
+     "name": "Podgórze SKA",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__7"
+    },
+    {
+     "name": "Limanowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__8"
+    },
+    {
+     "name": "Korona",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__9"
+    },
+    {
+     "name": "Smolki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__10"
+    },
+    {
+     "name": "Rondo Matecznego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__11"
+    },
+    {
+     "name": "Rzemieślnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__12"
+    },
+    {
+     "name": "Łagiewniki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__13"
+    },
+    {
+     "name": "Łagiewniki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__14"
+    },
+    {
+     "name": "Brożka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__15"
+    },
+    {
+     "name": "Borsucza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__16"
+    },
+    {
+     "name": "Lipińskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__17"
+    },
+    {
+     "name": "Grota-Roweckiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__18"
+    },
+    {
+     "name": "Norymberska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__19"
+    },
+    {
+     "name": "Ruczaj",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__20"
+    },
+    {
+     "name": "Kampus UJ",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__21"
+    },
+    {
+     "name": "Chmieleniec",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=11__1__22"
+    }
+   ]
+  },
+  {
+   "name": "13",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=13",
+   "tprzystanki": [
+    {
+     "name": "Nowy Bieżanów P+R",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__1"
+    },
+    {
+     "name": "Ćwiklińskiej",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__2"
+    },
+    {
+     "name": "Nowy Prokocim",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__3"
+    },
+    {
+     "name": "Teligi",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__4"
+    },
+    {
+     "name": "Prokocim Szpital",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__5"
+    },
+    {
+     "name": "Prokocim",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__6"
+    },
+    {
+     "name": "Wlotowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__7"
+    },
+    {
+     "name": "Bieżanowska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__8"
+    },
+    {
+     "name": "Kabel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__9"
+    },
+    {
+     "name": "Dworcowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__10"
+    },
+    {
+     "name": "Cmentarz Podgórski",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__11"
+    },
+    {
+     "name": "Podgórze SKA",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__12"
+    },
+    {
+     "name": "Limanowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__13"
+    },
+    {
+     "name": "Korona",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__14"
+    },
+    {
+     "name": "Plac Wolnica",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__15"
+    },
+    {
+     "name": "Stradom",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__16"
+    },
+    {
+     "name": "Wawel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__17"
+    },
+    {
+     "name": "św. Gertrudy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__18"
+    },
+    {
+     "name": "Plac Wszystkich Świętych",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__19"
+    },
+    {
+     "name": "Filharmonia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__20"
+    },
+    {
+     "name": "Teatr Bagatela",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__21"
+    },
+    {
+     "name": "Batorego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__22"
+    },
+    {
+     "name": "Plac Inwalidów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__23"
+    },
+    {
+     "name": "Urzędnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__24"
+    },
+    {
+     "name": "Biprostal",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__25"
+    },
+    {
+     "name": "Uniwersytet Pedagogiczny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__26"
+    },
+    {
+     "name": "Głowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=13__1__27"
+    }
+   ]
+  },
+  {
+   "name": "14",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=14",
+   "tprzystanki": [
+    {
+     "name": "Mistrzejowice",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__1"
+    },
+    {
+     "name": "Miśnieńska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__2"
+    },
+    {
+     "name": "Os. Złotego Wieku",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__3"
+    },
+    {
+     "name": "Rondo Piastowskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__4"
+    },
+    {
+     "name": "Dunikowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__5"
+    },
+    {
+     "name": "Rondo Hipokratesa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__6"
+    },
+    {
+     "name": "DH Wanda",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__7"
+    },
+    {
+     "name": "Rondo Kocmyrzowskie im. Ks. Gorzelanego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__8"
+    },
+    {
+     "name": "Bieńczycka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__9"
+    },
+    {
+     "name": "Rondo Czyżyńskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__10"
+    },
+    {
+     "name": "Centralna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__11"
+    },
+    {
+     "name": "Rondo 308. Dywizjonu",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__12"
+    },
+    {
+     "name": "M1 al. Pokoju",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__13"
+    },
+    {
+     "name": "TAURON Arena Kraków al. Pokoju",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__14"
+    },
+    {
+     "name": "Plaza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__15"
+    },
+    {
+     "name": "Dąbie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__16"
+    },
+    {
+     "name": "Ofiar Dąbia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__17"
+    },
+    {
+     "name": "Fabryczna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__18"
+    },
+    {
+     "name": "Francesco Nullo",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__19"
+    },
+    {
+     "name": "Teatr Variété",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__20"
+    },
+    {
+     "name": "Rondo Grzegórzeckie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__21"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__22"
+    },
+    {
+     "name": "Lubicz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__23"
+    },
+    {
+     "name": "Teatr Słowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__24"
+    },
+    {
+     "name": "Stary Kleparz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__25"
+    },
+    {
+     "name": "Teatr Bagatela",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__26"
+    },
+    {
+     "name": "Batorego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__27"
+    },
+    {
+     "name": "Plac Inwalidów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__28"
+    },
+    {
+     "name": "Urzędnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__29"
+    },
+    {
+     "name": "Biprostal",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__30"
+    },
+    {
+     "name": "Uniwersytet Pedagogiczny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__31"
+    },
+    {
+     "name": "Głowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=14__1__32"
+    }
+   ]
+  },
+  {
+   "name": "16",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=16",
+   "tprzystanki": [
+    {
+     "name": "Mistrzejowice",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__1"
+    },
+    {
+     "name": "Miśnieńska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__2"
+    },
+    {
+     "name": "Os. Złotego Wieku",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__3"
+    },
+    {
+     "name": "Rondo Piastowskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__4"
+    },
+    {
+     "name": "Dunikowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__5"
+    },
+    {
+     "name": "Rondo Hipokratesa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__6"
+    },
+    {
+     "name": "DH Wanda",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__7"
+    },
+    {
+     "name": "Rondo Kocmyrzowskie im. Ks. Gorzelanego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__8"
+    },
+    {
+     "name": "Os. Zgody",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__9"
+    },
+    {
+     "name": "Plac Centralny im. R.Reagana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__10"
+    },
+    {
+     "name": "Os. Na Skarpie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__11"
+    },
+    {
+     "name": "Klasztorna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__12"
+    },
+    {
+     "name": "Suche Stawy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=16__1__13"
+    }
+   ]
+  },
+  {
+   "name": "18",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=18",
+   "tprzystanki": [
+    {
+     "name": "Czerwone Maki P+R",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__1"
+    },
+    {
+     "name": "Chmieleniec",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__2"
+    },
+    {
+     "name": "Kampus UJ",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__3"
+    },
+    {
+     "name": "Ruczaj",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__4"
+    },
+    {
+     "name": "Norymberska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__5"
+    },
+    {
+     "name": "Grota-Roweckiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__6"
+    },
+    {
+     "name": "Lipińskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__7"
+    },
+    {
+     "name": "Kobierzyńska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__8"
+    },
+    {
+     "name": "Słomiana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__9"
+    },
+    {
+     "name": "Kapelanka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__10"
+    },
+    {
+     "name": "Szwedzka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__11"
+    },
+    {
+     "name": "Rondo Grunwaldzkie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__12"
+    },
+    {
+     "name": "Orzeszkowej",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__13"
+    },
+    {
+     "name": "Stradom",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__14"
+    },
+    {
+     "name": "Wawel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__15"
+    },
+    {
+     "name": "św. Gertrudy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__16"
+    },
+    {
+     "name": "Plac Wszystkich Świętych",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__17"
+    },
+    {
+     "name": "Filharmonia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__18"
+    },
+    {
+     "name": "Teatr Bagatela",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__19"
+    },
+    {
+     "name": "Stary Kleparz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__20"
+    },
+    {
+     "name": "Pędzichów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__21"
+    },
+    {
+     "name": "Nowy Kleparz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__22"
+    },
+    {
+     "name": "Dworzec Towarowy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__23"
+    },
+    {
+     "name": "Szpital Narutowicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__24"
+    },
+    {
+     "name": "Bratysławska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=18__1__25"
+    }
+   ]
+  },
+  {
+   "name": "19",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=19",
+   "tprzystanki": [
+    {
+     "name": "Borek Fałęcki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__1"
+    },
+    {
+     "name": "Borek Fałęcki I",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__2"
+    },
+    {
+     "name": "Solvay",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__3"
+    },
+    {
+     "name": "Łagiewniki ZUS",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__4"
+    },
+    {
+     "name": "Łagiewniki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__5"
+    },
+    {
+     "name": "Rzemieślnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__6"
+    },
+    {
+     "name": "Rondo Matecznego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__7"
+    },
+    {
+     "name": "Smolki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__8"
+    },
+    {
+     "name": "Korona",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__9"
+    },
+    {
+     "name": "Plac Bohaterów Getta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__10"
+    },
+    {
+     "name": "św. Wawrzyńca",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__11"
+    },
+    {
+     "name": "Miodowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__12"
+    },
+    {
+     "name": "Starowiślna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__13"
+    },
+    {
+     "name": "Hala Targowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__14"
+    },
+    {
+     "name": "Rondo Grzegórzeckie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__15"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__16"
+    },
+    {
+     "name": "Dworzec Główny Tunel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__17"
+    },
+    {
+     "name": "Politechnika",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=19__1__18"
+    }
+   ]
+  },
+  {
+   "name": "20",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=20",
+   "tprzystanki": [
+    {
+     "name": "Mały Płaszów P+R",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__1"
+    },
+    {
+     "name": "Rzebika",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__2"
+    },
+    {
+     "name": "Lipska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__3"
+    },
+    {
+     "name": "Gromadzka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__4"
+    },
+    {
+     "name": "Kuklińskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__5"
+    },
+    {
+     "name": "Klimeckiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__6"
+    },
+    {
+     "name": "Zabłocie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__7"
+    },
+    {
+     "name": "Rondo Grzegórzeckie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__8"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__9"
+    },
+    {
+     "name": "Lubicz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__10"
+    },
+    {
+     "name": "Teatr Słowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__11"
+    },
+    {
+     "name": "Stary Kleparz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__12"
+    },
+    {
+     "name": "Teatr Bagatela",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__13"
+    },
+    {
+     "name": "Uniwersytet Jagielloński",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__14"
+    },
+    {
+     "name": "Muzeum Narodowe",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__15"
+    },
+    {
+     "name": "Oleandry",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__16"
+    },
+    {
+     "name": "Park Jordana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__17"
+    },
+    {
+     "name": "Reymana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=20__1__18"
+    }
+   ]
+  },
+  {
+   "name": "21",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=21",
+   "tprzystanki": [
+    {
+     "name": "Pleszów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__1"
+    },
+    {
+     "name": "Koksochemia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__2"
+    },
+    {
+     "name": "Meksyk",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__3"
+    },
+    {
+     "name": "Brama nr 5",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__4"
+    },
+    {
+     "name": "Giedroycia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__5"
+    },
+    {
+     "name": "Brama nr 4",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__6"
+    },
+    {
+     "name": "Fort Mogiła",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__7"
+    },
+    {
+     "name": "Kopiec Wandy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__8"
+    },
+    {
+     "name": "Kombinat",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__9"
+    },
+    {
+     "name": "Struga",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__10"
+    },
+    {
+     "name": "Plac Centralny im. R.Reagana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__11"
+    },
+    {
+     "name": "Os. Zgody",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__12"
+    },
+    {
+     "name": "Rondo Kocmyrzowskie im. Ks. Gorzelanego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__13"
+    },
+    {
+     "name": "DH Wanda",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__14"
+    },
+    {
+     "name": "Rondo Hipokratesa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__15"
+    },
+    {
+     "name": "Dunikowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__16"
+    },
+    {
+     "name": "Kleeberga",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__17"
+    },
+    {
+     "name": "Piasta Kołodzieja",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=21__1__18"
+    }
+   ]
+  },
+  {
+   "name": "22",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=22",
+   "tprzystanki": [
+    {
+     "name": "Borek Fałęcki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__1"
+    },
+    {
+     "name": "Borek Fałęcki I",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__2"
+    },
+    {
+     "name": "Solvay",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__3"
+    },
+    {
+     "name": "Łagiewniki ZUS",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__4"
+    },
+    {
+     "name": "Łagiewniki",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__5"
+    },
+    {
+     "name": "Brożka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__6"
+    },
+    {
+     "name": "Borsucza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__7"
+    },
+    {
+     "name": "Kobierzyńska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__8"
+    },
+    {
+     "name": "Słomiana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__9"
+    },
+    {
+     "name": "Kapelanka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__10"
+    },
+    {
+     "name": "Szwedzka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__11"
+    },
+    {
+     "name": "Rondo Grunwaldzkie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__12"
+    },
+    {
+     "name": "Orzeszkowej",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__13"
+    },
+    {
+     "name": "Stradom",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__14"
+    },
+    {
+     "name": "Starowiślna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__15"
+    },
+    {
+     "name": "Hala Targowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__16"
+    },
+    {
+     "name": "Rondo Grzegórzeckie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__17"
+    },
+    {
+     "name": "Teatr Variété",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__18"
+    },
+    {
+     "name": "Francesco Nullo",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__19"
+    },
+    {
+     "name": "Fabryczna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__20"
+    },
+    {
+     "name": "Ofiar Dąbia",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__21"
+    },
+    {
+     "name": "Dąbie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__22"
+    },
+    {
+     "name": "Plaza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__23"
+    },
+    {
+     "name": "TAURON Arena Kraków al. Pokoju",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__24"
+    },
+    {
+     "name": "M1 al. Pokoju",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__25"
+    },
+    {
+     "name": "Rondo 308. Dywizjonu",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__26"
+    },
+    {
+     "name": "Centralna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__27"
+    },
+    {
+     "name": "Rondo Czyżyńskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__28"
+    },
+    {
+     "name": "Os. Kolorowe",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__29"
+    },
+    {
+     "name": "Plac Centralny im. R.Reagana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__30"
+    },
+    {
+     "name": "Struga",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__31"
+    },
+    {
+     "name": "Kombinat",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=22__1__32"
+    }
+   ]
+  },
+  {
+   "name": "24",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=24",
+   "tprzystanki": [
+    {
+     "name": "Kurdwanów P+R",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__1"
+    },
+    {
+     "name": "Witosa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__2"
+    },
+    {
+     "name": "Nowosądecka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__3"
+    },
+    {
+     "name": "Piaski Nowe",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__4"
+    },
+    {
+     "name": "Dauna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__5"
+    },
+    {
+     "name": "Bieżanowska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__6"
+    },
+    {
+     "name": "Kabel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__7"
+    },
+    {
+     "name": "Dworcowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__8"
+    },
+    {
+     "name": "Cmentarz Podgórski",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__9"
+    },
+    {
+     "name": "Podgórze SKA",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__10"
+    },
+    {
+     "name": "Plac Bohaterów Getta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__11"
+    },
+    {
+     "name": "św. Wawrzyńca",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__12"
+    },
+    {
+     "name": "Miodowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__13"
+    },
+    {
+     "name": "Starowiślna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__14"
+    },
+    {
+     "name": "Poczta Główna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__15"
+    },
+    {
+     "name": "Teatr Słowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__16"
+    },
+    {
+     "name": "Stary Kleparz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__17"
+    },
+    {
+     "name": "Teatr Bagatela",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__18"
+    },
+    {
+     "name": "Batorego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__19"
+    },
+    {
+     "name": "Plac Inwalidów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__20"
+    },
+    {
+     "name": "Urzędnicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__21"
+    },
+    {
+     "name": "Biprostal",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__22"
+    },
+    {
+     "name": "Uniwersytet Pedagogiczny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__23"
+    },
+    {
+     "name": "Głowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__24"
+    },
+    {
+     "name": "Bronowice",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__25"
+    },
+    {
+     "name": "Wesele",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__26"
+    },
+    {
+     "name": "Bronowice SKA",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=24__1__27"
+    }
+   ]
+  },
+  {
+   "name": "49",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=49",
+   "tprzystanki": [
+    {
+     "name": "Nowy Bieżanów P+R",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__1"
+    },
+    {
+     "name": "Ćwiklińskiej",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__2"
+    },
+    {
+     "name": "Nowy Prokocim",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__3"
+    },
+    {
+     "name": "Teligi",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__4"
+    },
+    {
+     "name": "Prokocim Szpital",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__5"
+    },
+    {
+     "name": "Prokocim",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__6"
+    },
+    {
+     "name": "Wlotowa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__7"
+    },
+    {
+     "name": "Bieżanowska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__8"
+    },
+    {
+     "name": "Kabel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__9"
+    },
+    {
+     "name": "Dworzec Płaszów Estakada",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__10"
+    },
+    {
+     "name": "Lipska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__11"
+    },
+    {
+     "name": "Gromadzka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__12"
+    },
+    {
+     "name": "Kuklińskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__13"
+    },
+    {
+     "name": "Klimeckiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__14"
+    },
+    {
+     "name": "Zabłocie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__15"
+    },
+    {
+     "name": "Rondo Grzegórzeckie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__16"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__17"
+    },
+    {
+     "name": "Cystersów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__18"
+    },
+    {
+     "name": "Białucha",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=49__1__19"
+    }
+   ]
+  },
+  {
+   "name": "50",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=50",
+   "tprzystanki": [
+    {
+     "name": "Krowodrza Górka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__1"
+    },
+    {
+     "name": "Bratysławska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__2"
+    },
+    {
+     "name": "Szpital Narutowicza",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__3"
+    },
+    {
+     "name": "Dworzec Towarowy",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__4"
+    },
+    {
+     "name": "Politechnika",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__5"
+    },
+    {
+     "name": "Dworzec Główny Tunel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__6"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__7"
+    },
+    {
+     "name": "Rondo Grzegórzeckie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__8"
+    },
+    {
+     "name": "Zabłocie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__9"
+    },
+    {
+     "name": "Klimeckiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__10"
+    },
+    {
+     "name": "Kuklińskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__11"
+    },
+    {
+     "name": "Gromadzka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__12"
+    },
+    {
+     "name": "Lipska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__13"
+    },
+    {
+     "name": "Dworzec Płaszów Estakada",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__14"
+    },
+    {
+     "name": "Kabel",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__15"
+    },
+    {
+     "name": "Bieżanowska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__16"
+    },
+    {
+     "name": "Dauna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__17"
+    },
+    {
+     "name": "Piaski Nowe",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__18"
+    },
+    {
+     "name": "Nowosądecka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__19"
+    },
+    {
+     "name": "Witosa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=50__1__20"
+    }
+   ]
+  },
+  {
+   "name": "52",
+   "url": "http://rozklady.mpk.krakow.pl/?lang=PL&linia=52",
+   "tprzystanki": [
+    {
+     "name": "Czerwone Maki P+R",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__1"
+    },
+    {
+     "name": "Chmieleniec",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__2"
+    },
+    {
+     "name": "Kampus UJ",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__3"
+    },
+    {
+     "name": "Ruczaj",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__4"
+    },
+    {
+     "name": "Norymberska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__5"
+    },
+    {
+     "name": "Grota-Roweckiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__6"
+    },
+    {
+     "name": "Lipińskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__7"
+    },
+    {
+     "name": "Kobierzyńska",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__8"
+    },
+    {
+     "name": "Słomiana",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__9"
+    },
+    {
+     "name": "Kapelanka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__10"
+    },
+    {
+     "name": "Szwedzka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__11"
+    },
+    {
+     "name": "Rondo Grunwaldzkie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__12"
+    },
+    {
+     "name": "Orzeszkowej",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__13"
+    },
+    {
+     "name": "Stradom",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__14"
+    },
+    {
+     "name": "Starowiślna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__15"
+    },
+    {
+     "name": "Poczta Główna",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__16"
+    },
+    {
+     "name": "Teatr Słowackiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__17"
+    },
+    {
+     "name": "Lubicz",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__18"
+    },
+    {
+     "name": "Rondo Mogilskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__19"
+    },
+    {
+     "name": "Cystersów",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__20"
+    },
+    {
+     "name": "Białucha",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__21"
+    },
+    {
+     "name": "TAURON Arena Kraków Wieczysta",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__22"
+    },
+    {
+     "name": "Muzeum Lotnictwa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__23"
+    },
+    {
+     "name": "AWF",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__24"
+    },
+    {
+     "name": "Stella-Sawickiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__25"
+    },
+    {
+     "name": "Czyżyny",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__26"
+    },
+    {
+     "name": "Rondo Czyżyńskie",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__27"
+    },
+    {
+     "name": "Bieńczycka",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__28"
+    },
+    {
+     "name": "Rondo Kocmyrzowskie im. Ks. Gorzelanego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__29"
+    },
+    {
+     "name": "DH Wanda",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__30"
+    },
+    {
+     "name": "Rondo Hipokratesa",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__31"
+    },
+    {
+     "name": "Dunikowskiego",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__32"
+    },
+    {
+     "name": "Kleeberga",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__33"
+    },
+    {
+     "name": "Piasta Kołodzieja",
+     "url": "http://rozklady.mpk.krakow.pl/?lang=PL&rozklad=20201212&linia=52__1__34"
+    }
+   ]
+  }
+ ]
+}
